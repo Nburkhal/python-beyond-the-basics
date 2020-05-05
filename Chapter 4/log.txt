@@ -1,0 +1,2 @@
+2020-05-04 21:47---------------this is a log message
+2020-05-04 21:47---------------this is another log message
