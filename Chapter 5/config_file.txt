@@ -1,0 +1,1 @@
+query=SELECT this FROM that WHERE conditionemail_to=me@mydomain.comnum_retries=5database=mysql_managed
